@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi! I'm Gonçalo
 
-<!--
-**GoncaloF16/GoncaloF16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Developer focused in FullStack.  
+💻 IT Student.
+📚 Currently learning Django. 
+📫 Contact: goncalo.amferreira@gmail.com
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
