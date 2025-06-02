@@ -2,7 +2,7 @@
 
 🎯 Developer focused in FullStack.  
 💻 IT Student.  
-📚 Currently learning Django.   
+📚 Currently learning React.   
 📫 Contact: goncalo.amferreira@gmail.com  
 
 ## 🚀 Languages and Technologies
